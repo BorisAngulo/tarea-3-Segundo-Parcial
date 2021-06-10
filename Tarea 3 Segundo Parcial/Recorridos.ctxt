@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Recorridos
+comment1.params=tama\u00F1o
+comment1.target=void\ Caracol(int)
+comment2.params=tama\u00F1o
+comment2.target=void\ DiagonalPrinciparYSecundaria(int)
+comment3.params=
+comment3.target=void\ CreaTuMatriz()
+numComments=4
